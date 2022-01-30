@@ -1,4 +1,4 @@
 # sci-python
-Repository for Data Science Course 
+Public repository to share Data Science examples
 
-print ("Hola!!")
+print ("Have a nice :) !!")
